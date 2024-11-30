@@ -74,7 +74,7 @@ To create a new student, send a `POST` request to `/home/` with the following pa
 
 You can use the built-in Django REST framework's browsable API for testing and interacting with the endpoints. Simply navigate to the `/home/` URL in your browser.
 
-![Browsable API](image.png)
+![image](https://github.com/user-attachments/assets/4ee0e5aa-6859-406b-8a6d-08623d876268)
 
 ## Contributing
 
